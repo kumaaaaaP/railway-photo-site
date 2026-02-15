@@ -1,0 +1,61 @@
+{
+  "companies": [
+    {
+      "id": "jr-west",
+      "name": "JR西日本",
+      "train_types": [
+        {
+          "id": "223-2000",
+          "name": "223系2000番台",
+          "formations": [
+            {
+              "id": "v27",
+              "name": "V27編成",
+              "composition": {
+                "direction": "←上郡，播州赤穂　敦賀，柘植→",
+                "cars": [
+                  { "type": "クハ222", "number": "2037" },
+                  { "type": "モハ222", "number": "3040" },
+                  { "type": "サハ223", "number": "2082" },
+                  { "type": "クモハ223", "number": "3037" }
+                ]
+              },
+              "history": [
+                { "date": "2000-02-14", "event": "網干新製配置（川重）" },
+                { "date": "2008-10-07", "event": "6000番台化（221系性能化）によりCV27編成へ" },
+                { "date": "2012-03-10", "event": "2000番台復帰" },
+                { "date": "2021-03-10", "event": "6000番台化" },
+                { "date": "2021-09-27", "event": "2000番台復帰" }
+              ],
+              "photos": [
+                {
+                  "url": "photos/v27_sample.jpg",
+                  "date": "2025-08-21",
+                  "location": "瀬田〜南草津",
+                  "description": "5918T 普通 米原行き"
+                }
+              ]
+            },
+            {
+              "id": "v28",
+              "name": "V28編成",
+              "composition": {
+                "direction": "←上郡，播州赤穂　敦賀，柘植→",
+                "cars": [
+                  { "type": "クハ222", "number": "2038" },
+                  { "type": "モハ222", "number": "3041" },
+                  { "type": "サハ223", "number": "2083" },
+                  { "type": "クモハ223", "number": "3038" }
+                ]
+              },
+              "history": [
+                { "date": "2000-02-14", "event": "網干新製配置" }
+              ],
+              "photos": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
