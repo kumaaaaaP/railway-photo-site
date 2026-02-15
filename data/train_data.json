@@ -12,7 +12,7 @@
               "id": "v27",
               "name": "V27編成",
               "composition": {
-                "direction": "←上郡，播州赤穂　敦賀，柘植→",
+                "direction": "←上郡，播州赤穂　　　敦賀，柘植→",
                 "cars": [
                   { "type": "クハ222", "number": "2037" },
                   { "type": "モハ222", "number": "3040" },
