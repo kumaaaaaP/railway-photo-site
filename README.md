@@ -40,6 +40,3 @@ python -m http.server 8000
 2. リポジトリの Settings > Pages を開きます。
 3. Build and deployment の Branch で `main` (または `master`) を選択して Save します。
 4. 数分待つと、公開された URL が表示されます。
-
-## ライセンス
-MIT License
